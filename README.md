@@ -21,6 +21,6 @@ Her **kat bir process**, her **daire ise bir thread** olarak modellenmiştir. Or
 
 ### Gereksinimler:
 - POSIX uyumlu bir işletim sistemi (Linux/macOS)
-- C derleyicisi (gcc önerilir)
+- C derleyicisi
 
 ## Youtube Videosu
